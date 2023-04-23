@@ -1,5 +1,5 @@
 # dwm
-Kapcioszek's build of dwm
+Kapcioszek's build of [dwm](https://dwm.suckless.org/)
   
 ## Patches
 + [sticky windows](https://dwm.suckless.org/patches/sticky/)
